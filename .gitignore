@@ -7,6 +7,9 @@ notes
 #logs
 *.log
 
+#ppts
+*.ppt*
+
 #LOCUST input/output/compiled files
 *.dat
 *.eqdsk
