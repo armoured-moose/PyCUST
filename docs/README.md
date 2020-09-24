@@ -1,4 +1,4 @@
-![logo](../logo.png =250x)
+<img src="../logo.png" width="200">
 
 # PyCUST
 
