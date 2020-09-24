@@ -4,6 +4,9 @@ changes
 #notes file
 notes
 
+#logs
+*.log
+
 #LOCUST input/output/compiled files
 *.dat
 *.eqdsk
