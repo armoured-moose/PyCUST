@@ -1,0 +1,39 @@
+#changes file
+changes
+
+#notes file
+notes
+
+#LOCUST input/output/compiled files
+*.dat
+*.eqdsk
+*.mesh.*
+*.dfn
+*.vtk
+*.o
+*.mod
+
+#python module files
+*.pyc
+
+#MAC ds_store
+.DS_Store 
+
+#emacs stuff
+*~
+
+#__pycache__ file
+__pycache__
+
+#VS code things
+.vscode/*
+tempCodeRunnerFile.python
+
+#files beginning and ending with #
+\#*# 
+
+#gifs
+*.gif
+
+#note - to begin to ignore existing files, must use
+#git rm --cached FILENAME
